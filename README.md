@@ -4,4 +4,4 @@ Hello my 2 million beautiful subscribers in the world. Welcome to the home of th
 More:
 This is the second time editing this document. Just FYI.
 
-This part needs to be merged to the feature.
+Doing it one more time for clarity.
